@@ -1,0 +1,14 @@
+#name{
+	text-align: center;
+	font-size: 50px;
+	color: blue
+}
+#photo{
+	text-align: center;
+	border-radius: 60px
+}
+
+#about{
+	text-align: center;
+	font-size: 25px
+}
